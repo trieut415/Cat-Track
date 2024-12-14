@@ -1,6 +1,5 @@
 # CatTrack: A Smart Cat Behavior Tracking Device
 
-**Authors**: Joshua Bardwick, Trieu Tran, Noah Hathout, Cole Knutsen  
 **Date**: October 4, 2024  
 
 ---
