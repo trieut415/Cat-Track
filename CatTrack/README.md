@@ -54,11 +54,11 @@ The system is built around four main tasks:
 ## Visuals
 
 ### Circuit Diagram
-![Circuit Diagram](https://github.com/BU-EC444/Quest2-Team6-Bardwick-Hathout-Knutsen-Tran/blob/main/quest2/circuit-diagram1.png)
+![Circuit Diagram](https://github.com/trieut415/Cat-Track/blob/main/CatTrack/CatTracker/circuit-diagram1.png)
 
 ### Images of the Circuit
-![Circuit 1](https://github.com/BU-EC444/Quest2-Team6-Bardwick-Hathout-Knutsen-Tran/blob/main/quest2/circuit-image1.png)  
-![Circuit 2](https://github.com/BU-EC444/Quest2-Team6-Bardwick-Hathout-Knutsen-Tran/blob/main/quest2/circuit-image2.png)
+![Circuit 1](https://github.com/trieut415/Cat-Track/blob/main/CatTrack/CatTracker/circuit-image1.png)  
+![Circuit 2](https://github.com/trieut415/Cat-Track/blob/main/CatTrack/CatTracker/circuit-image2.png)
 
 ---
 
