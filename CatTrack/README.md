@@ -5,7 +5,7 @@
 
 ## Overview
 
-CatTrack is a device designed to monitor and classify a cat's behavior using movement data, display the information locally, and transmit it to a web interface for visualization. The system combines data from an accelerometer, a temperature sensor, and an alphanumeric display to provide real-time tracking and reporting of the cat's activity and environment.
+CatTrack is a device designed to monitor and classify a cat's behavior using movement data, display the information locally, and transmit it to a web interface for visualization. The system combines data from an accelerometer, a temperature sensor, and an alphanumeric display to provide real-time tracking and reporting of the cat's activity and environment. This is a current proof of concept using the ESP32 in the ESP-IDF framework.
 
 ---
 
